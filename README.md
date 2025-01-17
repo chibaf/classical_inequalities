@@ -1,4 +1,4 @@
-# classical_inequalities
+# classical inequalities
 
 Hardy's inequality
 

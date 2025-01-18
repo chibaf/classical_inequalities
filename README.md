@@ -19,6 +19,7 @@ $$
 \int^\infty_0f(t)^pt^{p-r} dt\ge \left(\frac{|r-1|}{p}\right)^p\int^\infty_0F(t)^pt^{-r}dt
 $$
 
+where
 $
 F(t)=
 
@@ -30,6 +31,8 @@ F(t)=
 \end{array}
 \right.
 $
+
+Hardy's inequality discrete type
 
 $$
 \sum^\infty_{n=1} x^p_n \ge \left(1-\frac{1}{p}\right)^p\sum^\infty_{n=1}\left(\frac{x_1+x_2+\cdots+x_n}{n}\right)^n

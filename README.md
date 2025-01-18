@@ -14,9 +14,12 @@ $$
 $$
 
 Hardy, Littlewood, Polya
+
 $$
-\int^\infty_0f(t)^pt^{p-r} \ge \left(\frac{|r-1|}{p}\right)^p\int^\infty_0F(t)^pt^{-r}dt
-\\
+\int^\infty_0f(t)^pt^{p-r} dt\ge \left(\frac{|r-1|}{p}\right)^p\int^\infty_0F(t)^pt^{-r}dt
+$$
+
+$$
 F(t)=
 \left\{
 \begin{array}{l}

@@ -20,16 +20,15 @@ $$
 $$
 
 where
-$
+
+$$
 F(t)=
-%\left\[
 \begin{array}{ll}
 \int^t_0 f(s)ds, & r>1 \\
 \\
 \int^\infty_0 f(s)ds, & r<1
 \end{array}
-%\right.
-$
+$$
 
 Hardy's inequality discrete type
 

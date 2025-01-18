@@ -31,6 +31,9 @@ F(t)=
 \right.
 $
 
+$$
+\sum^\infty_{n=1} x^p_n \ge \left(1-\frac{1}{p}\right)^p\sum^\infty_{n=1}\left(\frac{x_1+x_2+\cdots+x_n}{n}\right)^n
+$$
 
 ## references
 古典的不等式の精密化、堀内利郎、内田老鶴圃、２０２３ 

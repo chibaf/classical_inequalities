@@ -21,7 +21,7 @@ $$
 
 $$
 F(t)=
-\left\{
+\left{
 \begin{array}{l}
 \int^t_0 f(s)ds, \quad r>1 \\
 \\

@@ -19,7 +19,7 @@ $$
 \int^\infty_0f(t)^pt^{p-r} dt\ge \left(\frac{|r-1|}{p}\right)^p\int^\infty_0F(t)^pt^{-r}dt
 $$
 
-$$
+$
 F(t)=
 
 \left\{
@@ -29,7 +29,7 @@ F(t)=
 \int^\infty_0 f(s)ds, & r<1
 \end{array}
 \right.
-$$
+$
 
 
 ## references

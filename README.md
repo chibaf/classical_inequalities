@@ -21,14 +21,15 @@ $$
 
 $$
 F(t)=
-\left{
-\begin{array}{l}
-\int^t_0 f(s)ds, \quad r>1 \\
+\left\{
+\begin{array}{ll}
+\int^t_0 f(s)ds, & r>1 \\
 \\
-\int^\infty_0 f(s)ds, \quad r<1
+\int^\infty_0 f(s)ds, & r<1
 \end{array}
 \right.
 $$
+
 
 
 ## references

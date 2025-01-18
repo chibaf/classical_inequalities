@@ -22,7 +22,6 @@ $$
 where
 $
 F(t)=
-
 \left\{
 \begin{array}{ll}
 \int^t_0 f(s)ds, & r>1 \\

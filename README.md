@@ -59,3 +59,6 @@ $$
 ## references
 古典的不等式の精密化、堀内利郎、内田老鶴圃、２０２３ 
 http://www.rokakuho.co.jp/data/books/0088.html
+
+TeX2img Website
+https://tex2img.tech/index.en.html

@@ -36,6 +36,22 @@ $$
 \sum^\infty_{n=1} x^p_n \ge \left(1-\frac{1}{p}\right)^p\sum^\infty_{n=1}\left(\frac{x_1+x_2+\cdots+x_n}{n}\right)^p
 $$
 
+weighted one dimensional hardy's inequality power type (1)
+$$
+1< p <\infty \;\; {\rm and} \;\; \alpha< 1-1/p
+$$
+$$
+\int^\infty_0\left |u'(t)\right|^p t^{\alpha t}dt \ge \left(1-\alpha-\frac{1}{p}\right)^p\int^\infty_0 \left |u(t)\right|^p t^{(\alpha-1)p}dt
+$$
+
+weighted one dimensional hardy's inequality power type (2)
+$$
+1< p <\infty \;\; {\rm and} \;\; \alpha> 1-1/p
+$$
+$$
+\int^\infty_0\left |u'(t)\right|^p t^{\alpha t}dt \ge \left(\alpha-1+\frac{1}{p}\right)^p\int^\infty_0 \left |u(t)\right|^p t^{(\alpha-1)p}dt
+$$
+
 ## references
 古典的不等式の精密化、堀内利郎、内田老鶴圃、２０２３ 
 http://www.rokakuho.co.jp/data/books/0088.html

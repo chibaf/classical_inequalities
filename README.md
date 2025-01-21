@@ -62,7 +62,7 @@ $$
 1< p <\infty \;\; {\rm and} \;\; \alpha< 1-1/p
 $$
 $$
-\int^\infty_0\left |f'(t)\right|^p t^{\alpha t}dt \ge \left(1-\alpha-\frac{1}{p}\right)^p\int^\infty_0 \left |f(t)\right|^p t^{(\alpha-1)p}dt
+\int^\infty_0\left |f(t)\right|^p t^{\alpha p}dt \ge \left(1-\alpha-\frac{1}{p}\right)^p\int^\infty_0\left(\int_0^t \left |f(x)\right|dx\right)^p t^{(\alpha-1)p}dt
 $$
 
 weighted one dimensional hardy's inequality power type (2)
@@ -71,8 +71,9 @@ $$
 1< p <\infty \;\; {\rm and} \;\; \alpha> 1-1/p
 $$
 $$
-\int^\infty_0\left |f'(t)\right|^p t^{\alpha t}dt \ge \left(\alpha-1+\frac{1}{p}\right)^p\int^\infty_0 \left |f(t)\right|^p t^{(\alpha-1)p}dt
+\int^\infty_0\left |f(t)\right|^p t^{\alpha t}dt \ge \left(\alpha-1+\frac{1}{p}\right)^p\int^\infty_0\left(\int^\infty_0\left|f(x)\right|dx\right)^p t^{(\alpha-1)p}dt
 $$
+
 
 ## references
 古典的不等式の精密化、堀内利郎、内田老鶴圃、２０２３ 

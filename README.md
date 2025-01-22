@@ -83,8 +83,9 @@ $$
 Hardy-Sobolev inequality; $C$ is independent of $u(t)$
 
 $$
-\int^\infty_0\left|u'(t)\right|^p w(t)^pdt \ge C \left(\int^\infty_0\left|u(t)\right|^q v(t)^q dt \right)^{p/q} \quad {\rm for} \; v(t)\ge 0,\;w(t)\ge 0
+\int^\infty_0\left|u'(t)\right|^p w(t)^pdt \ge C \left(\int^\infty_0\left|u(t)\right|^q v(t)^q dt \right)^{p/q} \quad {\rm for} \; 1 < p \le q < +\infty
 $$
+
 
 ## references
 古典的不等式の精密化、堀内利郎、内田老鶴圃、２０２３ 

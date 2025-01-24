@@ -86,6 +86,35 @@ $$
 \int^\infty_0\left|u'(t)\right|^p w(t)^pdt \ge C \left(\int^\infty_0\left|u(t)\right|^q v(t)^q dt \right)^{p/q} \quad {\rm for} \; 1 < p \le q < +\infty
 $$
 
+When 
+
+$$
+1<p\le q<\infty,\;p'=p/(p-1),\;\int^\infty_0|v(x)|dx<\infty,\;\int^\infty_0|w(x)|dx<\infty
+$$
+
+Then the following two statements (1) and (2) are equivalent
+
+(1) when
+
+$$
+\int^\infty_0|f(x)|^pw(x)^p dx<\infty
+$$
+
+Then
+
+$$
+\int^\infty_0|f(x)|^p w(t)^p dt \ge C_1\left(\int^\infty_0\left|\int^t_0|f(x)|dx\right|^q w(t)^q dt\right)^{p/q}
+$$
+
+$$
+\frac{1}{C_1}:=\sup_{t>0}\left(\int^\infty_t v(s)^q ds\right)^{p/q}\left(\int^t_0 w(s)^{-p'}\right)^{p-1}<\infty
+$$
+
+there is a constant $C_1$ which is independent of $f(t)$
+
+Then
+
+
 
 ## references
 古典的不等式の精密化、堀内利郎、内田老鶴圃、２０２３ 

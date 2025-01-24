@@ -112,7 +112,25 @@ $$
 
 there is a constant $C_1$ which is independent of $f(t)$
 
+(2)
+
+$$
+\frac{1}{C_1}:=\sup_{t>0}\left(\int^\infty_t v(s)^q ds\right)^{p/q}\left(\int^t_0 w(s)^{-p'}\right)^{p-1}<\infty
+$$
+
+where
+
+$$
+0<C_2\le \infty,\; 1/\infty=0
+$$
+
+(3) When $C_1$ the best constant satisfying (2)
+
 Then
+
+$$
+\left(q^{p/q}(q'^{p-1})\right)^{-1}C_2 \le C_1 \le C_2,\quad q'=q/(q-1)
+$$
 
 
 

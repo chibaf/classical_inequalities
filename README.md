@@ -89,7 +89,7 @@ $$
 When 
 
 $$
-1<p\le q<\infty,\;p'=p/(p-1),\;\int^\infty_0|v(x)|dx<\infty,\;\int^\infty_0|w(x)|dx<\infty
+1<p \le q<\infty,\;p'=p/(p-1),\;\int^\infty_0|v(x)|dx<\infty,\;\int^\infty_0|w(x)|dx<\infty
 $$
 
 Then the following two statements (1) and (2) are equivalent

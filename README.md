@@ -165,6 +165,13 @@ $$
 0<C_{2}\le\infty,\;1/\infty=0
 $$
 
+if $C_1$ is the upper limit of 1. then we have
+
+$
+\left(q^{p/q}(q')^{\,p-1}\right)^{-1}C_2 \le C_1 \le C_2,\quad q'=q/(q-1)
+$$
+
+
 
 ## references
 古典的不等式の精密化、堀内利郎、内田老鶴圃、２０２３ 

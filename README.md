@@ -132,6 +132,14 @@ $$
 \left(q^{p/q}(q'^{p-1})\right)^{-1}C_2 \le C_1 \le C_2,\quad q'=q/(q-1)
 $$
 
+suppose
+
+$$
+1<p \le q <\infty, \; p'=p/(p-1)
+$$
+$$
+v(x),w(x) \ge 0, \quad \int^\infty_0 v(x) dx <\infty,\;\int^\infty_0 w(x) dx <\infty
+$$
 
 
 ## references

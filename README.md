@@ -141,6 +141,16 @@ $$
 v(x),w(x) \ge 0, \quad \int^\infty_0 v(x) dx <\infty,\;\int^\infty_0 w(x) dx <\infty
 $$
 
+$$
+\int^{\infty}_{0}|f(x)|^{p}w(t)^{p}dt<\infty
+$$
+
+Then the following two proposition 1. and 2. are equivalent
+
+$$
+\int^{\infty}_{0}|f(t)|^{p}w(t)^{p}dt \ge C_{1}\left(\int^{\infty}_{0}\left|\int^{\infty}_{0}|f(x)|dx\right|^{q}v(t)^{q}dt\right)^{{p/q}}
+$$
+
 
 ## references
 古典的不等式の精密化、堀内利郎、内田老鶴圃、２０２３ 

@@ -147,8 +147,22 @@ $$
 
 Then the following two proposition 1. and 2. are equivalent
 
+1.
+
 $$
 \int^{\infty}_{0}|f(t)|^{p}w(t)^{p}dt \ge C_{1}\left(\int^{\infty}_{0}\left|\int^{\infty}_{0}|f(x)|dx\right|^{q}v(t)^{q}dt\right)^{{p/q}}
+$$
+
+2.
+
+$$
+\frac{1}{C_{2}}:=\sup_{t>0}\left(\int^{t}_{0}v(s)^{q}ds\right)^{p/q}\left(\int^{\infty}_{t}w(s)^{-p'}ds\right)^{p-1} < \infty
+$$
+
+where
+
+$$
+0<C_{2}\le\infty,\;1/\infty=0
 $$
 
 
